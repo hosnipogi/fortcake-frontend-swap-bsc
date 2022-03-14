@@ -1,0 +1,106 @@
+{
+    "name": "pancakeswap",
+    "timestamp": "2020-08-25T15:41:29.665Z",
+    "version": {
+        "major": 1,
+        "minor": 3,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "/bsc/images/coins/wbnb.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [{
+            "name": "Axie Infinity",
+            "symbol": "AXS",
+            "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Axie My Neighbor Alice",
+            "symbol": "ALICE",
+            "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Mines of Dalarnia",
+            "symbol": "DAR",
+            "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Alien Worlds",
+            "symbol": "TLM",
+            "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Monsta Infinite",
+            "symbol": "MONI",
+            "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Polychain Monsters",
+            "symbol": "PMON",
+            "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Kryptomon Monsters",
+            "symbol": "KMON",
+            "address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Binamon",
+            "symbol": "BMON",
+            "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Crypto Blades",
+            "symbol": "SKILL",
+            "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "Faraland",
+            "symbol": "FARA",
+            "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "FortCake",
+            "symbol": "FORTCAKE",
+            "address": "0x2f477a472f4657f7917126a663b5affe94d5a2b6",
+            "chainId": 56,
+            "decimals": 18
+        },
+        {
+            "name": "WBNB Token",
+            "symbol": "WBNB",
+            "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+            "chainId": 97,
+            "decimals": 18,
+            "logoURI": "/images/coins/BUSD.png"
+          },
+          {
+            "name": "BUSD Token",
+            "symbol": "BUSD",
+            "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+            "chainId": 97,
+            "decimals": 18,
+            "logoURI": "/images/coins/BTC.png"
+          }
+    ]
+}

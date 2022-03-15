@@ -90,7 +90,7 @@
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'",
     "swap": "mkdir bsc && mv build/* bsc && mv bsc build && serve build",
-    "updateCommons": "yarn upgrade common-fortcake-files"
+    "updateCommons": "yarn upgrade fortcake-config-files"
   },
   "browserslist": {
     "production": [

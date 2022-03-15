@@ -7989,7 +7989,7 @@ form-data@~2.3.2:
 
 fortcake-config-files@fortcake/fortcake-config-files:
   version "0.0.1"
-  resolved "https://codeload.github.com/fortcake/fortcake-config-files/tar.gz/b09bbdca30a6e01895690c9ec0f3148f2d67216c"
+  resolved "https://codeload.github.com/fortcake/fortcake-config-files/tar.gz/1dab216172d010f1dbd2690ce77c5667d818402f"
   dependencies:
     typescript "^4.6.2"
 

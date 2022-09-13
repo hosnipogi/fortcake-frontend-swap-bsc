@@ -69,7 +69,7 @@
   },
   "devDependencies": {
     "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
-    "@types/jest": "^26.0.20",
+    "@types/jest": "^29.0.2",
     "@types/testing-library__cypress": "^5.0.8",
     "cypress": "^4.11.0",
     "eslint": "^7.2.0",
